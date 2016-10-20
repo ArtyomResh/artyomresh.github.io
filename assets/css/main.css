@@ -908,6 +908,20 @@
 		color: #aaa;
 	}
 
+	.text-links {
+		color: #87B2CE;
+		text-decoration: none;
+	}
+
+	.text-links:hover {
+		color: #1C4966;
+		text-decoration: underline;
+	}
+
+	.text-links:visited {
+		color: #87B2CE;
+	}
+
 /* Image */
 
 	.image {
